@@ -1,6 +1,5 @@
 ### Hi there 👋
 
- -🔭 I’m currently working on ...
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on any android and NodeJS projects
 - 💬 Ask me about anything
