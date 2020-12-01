@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m looking to collaborate on any android and NodeJS projects
+- 🌱 Working on JAVA, Kotlin and NodeJS
+- 👯 I’m looking to collaborate on any android related projects
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: proudmoses@gmail.com
 - ⚡ Fun fact: I think alot
