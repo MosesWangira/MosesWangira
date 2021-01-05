@@ -6,15 +6,8 @@
 - 📫 How to reach me: proudmoses@gmail.com
 - ⚡ Fun fact: I think alot
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <th>
-      <img src ="https://github-readme-stats.vercel.app/api?username=MosesWangira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> 
-    </th>
-    <th>
-      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MosesWangira&hide=html&layout=compact&theme=dark"/>
-   </th>
-  </tr>
-</table>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MosesWangira&hide=html&layout=compact&theme=dark"/>
+<img src ="https://github-readme-stats.vercel.app/api?username=MosesWangira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> 
+
 
 
