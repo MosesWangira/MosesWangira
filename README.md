@@ -7,10 +7,13 @@
 - ⚡ Fun fact: I think alot
 
 <table style="width:100%; border-collapse: collapse; border: none;">
-  <tr>
-    <th><img src ="https://github-readme-stats.vercel.app/api?username=MosesWangira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> </th>
-    <th><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MosesWangira&hide=html&layout=compact&theme=dark"/>
-</th>
+  <tr style="border: none;">
+    <th>
+      <img src ="https://github-readme-stats.vercel.app/api?username=MosesWangira&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/> 
+    </th>
+    <th>
+      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MosesWangira&hide=html&layout=compact&theme=dark"/>
+   </th>
   </tr>
 </table>
 
