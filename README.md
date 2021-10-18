@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Working on Kotlin, JAVA and NodeJS
+- 🌱 Working on Kotlin, JAVA, Flutter and NodeJS
 - 👯 I’m looking to collaborate on any android related projects
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: proudmoses@gmail.com
