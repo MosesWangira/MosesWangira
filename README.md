@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🌱 Working on Kotlin, JAVA, Flutter and NodeJS
-- 👯 I’m looking to collaborate on any android related projects
-- 💬 Ask me about anything related to tech
+- 🌱 Working on Kotlin, JAVA, Flutter and NodeJS.
+- 👯 I’m looking to collaborate on any android related projects.
+- 💬 Ask me about anything related to tech.
 - 📫 How to reach me: moseswangira2@gmail.com
-- ⚡ Fun fact: I think alot
+- ⚡ Fun fact: I think alot.
 
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MosesWangira&hide=html&layout=compact&theme=dark"/>
