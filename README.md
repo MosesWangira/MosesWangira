@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Working on Kotlin, JAVA, Flutter and NodeJS.
+- 🌱 Working on Kotlin, NodeJs, JAVA and Flutter.
 - 👯 I’m looking to collaborate on any kind of mindblowing projects.
 - 💬 Ask me about anything without bias.
 - 📫 How to reach me: moseswangira2@gmail.com
