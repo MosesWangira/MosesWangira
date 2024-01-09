@@ -5,8 +5,6 @@
 - 💬 Ask me about anything without bias.
 - 📫 How to reach me: moseswangira2@gmail.com
 
-<br />
-
 ### Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -17,10 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesWangira&langs_count=10&hide=html&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
-<br />
-
 ### Technologies & Tools
-
 <p>
 <img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
