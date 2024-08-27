@@ -22,8 +22,6 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
 </p>
 
 
