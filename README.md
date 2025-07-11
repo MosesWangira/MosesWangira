@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am currently working as a <b>Software Developer</b> at <b>CircleTech</b>.
+- 🌱 I am currently working as a <b>Software Engineer</b> at <b>CircleTech</b>.
 - 👯 I’m looking to collaborate on any problem solving project.
 - 💬 Ask me about anything without bias.
 - 📫 How to reach me: moseswangira2@gmail.com
